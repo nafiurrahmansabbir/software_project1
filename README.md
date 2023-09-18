@@ -1,2 +1,2 @@
-#live link:https://adnan-rony.github.io/conference-PJ-2/
+#live link: https://nafiurrahmansabbir.github.io/software_project1/
 # software_project1
